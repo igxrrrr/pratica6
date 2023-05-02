@@ -1,6 +1,5 @@
 package exercicio2;
 
-// Classe Empresa
 public class Empresa {
     private String nome;
     private String cnpj;
