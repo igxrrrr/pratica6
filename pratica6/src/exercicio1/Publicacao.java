@@ -1,6 +1,5 @@
 package exercicio1;
 
-// Classe Publicacao
 public class Publicacao {
     private String dataPublicacao;
     private String textoPublicacao;
