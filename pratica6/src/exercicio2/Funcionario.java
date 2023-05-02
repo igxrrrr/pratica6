@@ -1,6 +1,5 @@
 package exercicio2;
 
-// Classe Funcionario que herda de Pessoa
 public class Funcionario extends Pessoa {
     private String departamento;
     private double salario;
