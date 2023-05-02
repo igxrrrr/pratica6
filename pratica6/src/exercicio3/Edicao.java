@@ -22,6 +22,4 @@ public class Edicao {
         artigos.add(artigo);
     }
 
-    // Getters e setters
-    // ...
 }
