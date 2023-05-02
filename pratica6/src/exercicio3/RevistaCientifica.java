@@ -2,7 +2,6 @@ package exercicio3;
 
 import java.util.ArrayList;
 
-// Classe RevistaCientifica
 public class RevistaCientifica {
     private String titulo;
     private long issn;
@@ -20,6 +19,5 @@ public class RevistaCientifica {
         edicoes.add(edicao);
     }
 
-    // Getters e setters
-    // ...
+
 }
