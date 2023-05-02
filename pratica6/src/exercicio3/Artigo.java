@@ -1,6 +1,5 @@
 package exercicio3;
 
-// Classe Artigo
 public class Artigo {
     private String titulo;
     private String resumo;
@@ -12,6 +11,4 @@ public class Artigo {
         this.autores = autores;
     }
 
-    // Getters e setters
-    // ...
 }
