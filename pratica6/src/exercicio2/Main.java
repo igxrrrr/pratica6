@@ -6,7 +6,6 @@ public class Main {
         Funcionario[] funcionarios = new Funcionario[5];
 
         funcionarios[0] = new Funcionario("João", "joao@email.com", "11987654321", "Desenvolvimento", 4000.0, "02/05/2020", "123456789", true);
-        // Insira os outros 4 funcionários aqui
 
         for (Funcionario funcionario : funcionarios) {
             funcionario.mostrarDados();
