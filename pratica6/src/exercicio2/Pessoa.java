@@ -1,6 +1,5 @@
 package exercicio2;
 
-// Classe Pessoa
 public class Pessoa {
     protected String nome;
     protected String email;
