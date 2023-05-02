@@ -2,7 +2,6 @@ package exercicio1;
 
 import java.util.ArrayList;
 
-// Classe RedeSocial
 public class RedeSocial {
     private String dataCriacao;
     private String nomeUsuario;
